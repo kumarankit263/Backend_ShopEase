@@ -55,13 +55,16 @@ This app supports user registration, secure JWT-based login, product management,
 
 ### 📦 Backend (`Spring Boot`)
 
-src/
-├── controller/ # REST Controllers
-├── model/ # JPA Entities
-├── repository/ # JPA Repositories
-├── service/ # Business Logic
-├── security/ # JWT Filter & Config
-└── main/
+📁 Project Structure (Backend)
+
+- `src/`
+  - `controller/` – REST Controllers
+  - `model/` – JPA Entities
+  - `repository/` – JPA Repositories
+  - `service/` – Business Logic
+  - `security/` – JWT Filters and Configuration
+  - `main/` – Application Entry Point
+
 
 
 
